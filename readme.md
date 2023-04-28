@@ -13,7 +13,7 @@ Check out the [Installation Documentation](https://statto.powrsolutions.co.uk/do
 
 ![Home](/statto/statto-home.png)
 
-![Matchweek](/sttato/statto-matchweek.png)
+![Matchweek](/statto/sttato-matchweek.png)
 
 ![Match Centre - Lineups](/statto/statto-mc-lineups.png)
 
