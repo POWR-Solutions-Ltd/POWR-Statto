@@ -1,10 +1,7 @@
 ## Welcome to Statto
 
-<div style='background-color:#22aa22'>
-<p class="admonition-title">Note</p>
-<p>Stickers preview is now available in the stickers folder</p>
-</div>
 ### POWR Statto Stickers
+
 Stickers preview is now available in the stickers folder.
 
 Check out the [Installation Documentation](https://statto.powrsolutions.co.uk/docs/stickers/overview)
