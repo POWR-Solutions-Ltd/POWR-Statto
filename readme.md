@@ -14,14 +14,14 @@ Check out the [Installation Documentation](https://statto.powrsolutions.co.uk/do
 
 ### POWR Statto
 
-![Home](/stickers/statto-home.png)
+![Home](/statto/statto-home.png)
 
-![Matchweek](/stickers/statto-matchweek.png)
+![Matchweek](/statto/statto-matchweek.png)
 
-![Match Centre - Lineups](/stickers/statto-mc-lineups.png)
+![Match Centre - Lineups](/statto/statto-mc-lineups.png)
 
-![Match Centre - Formation](/stickers/statto-mc-formation.png)
+![Match Centre - Formation](/statto/statto-mc-formation.png)
 
-![Match Centre - Match Stats](/stickers/statto-mc-match-stats.png)
+![Match Centre - Match Stats](/statto/statto-mc-match-stats.png)
 
-![Match Centre - Player  Stats](/stickers/statto-mc-player-stats.png)
+![Match Centre - Player  Stats](/statto/statto-mc-player-stats.png)
